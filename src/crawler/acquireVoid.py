@@ -11,7 +11,7 @@ from elasticsearch import Elasticsearch
 
 
 
-
+###################20150718##################################
 def connectDB():  #####连接数据库
     try:
         client = pymongo.MongoClient("mongodb://192.168.102.154:27017")
