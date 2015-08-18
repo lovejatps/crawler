@@ -33,3 +33,6 @@ $python setup.py install
 $pip install pymongo
 注意，以后可以直接通过pip来更新pymongo，命令是
 $pip --upgrade pymongo
+
+3、安装ES
+    pip install elasticsearch    另外还有一种：  pip install pyes
