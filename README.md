@@ -27,6 +27,10 @@ $tar -xvf pip-1.0.2.tar.gz
 然后安装：
 $cd pip-1.0.2
 $python setup.py install
+另一种方法 安装 pip
+sudo apt-get install python-pip
+# 安装 virtualenv
+sudo pip install virtualenv
 安装好pip之后，就可以用命令来安装pymongo了：
 3.安装Python for Mongo的驱动
 很简单：
